@@ -56,6 +56,7 @@ Web App URL: http://localhost:5173
 
 This is neon database
 Add below lined to .env file
-
+```
 DATABASE_URL=postgresql://neondb_owner:npg_K8teJfn5GaLQ@ep-sweet-snow-b4cmc8xm-pooler.c-6.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
 JWT_SECRET=hardcoded_secret_here
+```
